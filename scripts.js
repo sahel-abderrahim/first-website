@@ -1,7 +1,7 @@
  const person = {
     name:"sam",
     id:34,
-    adress:"eng"
+    adress:"eng",
     hi : function(){
       console.log("hello");
       
