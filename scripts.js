@@ -11,3 +11,7 @@
 console.log(person);
 console.log(person.id);
 person.hi();
+const name = "abderrahim";
+const webname = "abderrahim.com";
+console.log(`my name is ${name} 
+   my website is ${webname}`);
